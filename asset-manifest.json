@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/myprofile/static/css/main.cf93c7a6.chunk.css",
+    "main.js": "/myprofile/static/js/main.59286b21.chunk.js",
+    "main.js.map": "/myprofile/static/js/main.59286b21.chunk.js.map",
+    "runtime-main.js": "/myprofile/static/js/runtime-main.24ab6cf5.js",
+    "runtime-main.js.map": "/myprofile/static/js/runtime-main.24ab6cf5.js.map",
+    "static/js/2.47e214c5.chunk.js": "/myprofile/static/js/2.47e214c5.chunk.js",
+    "static/js/2.47e214c5.chunk.js.map": "/myprofile/static/js/2.47e214c5.chunk.js.map",
+    "index.html": "/myprofile/index.html",
+    "precache-manifest.f5eb09838139037891c7e7e46fbf63e4.js": "/myprofile/precache-manifest.f5eb09838139037891c7e7e46fbf63e4.js",
+    "service-worker.js": "/myprofile/service-worker.js",
+    "static/css/main.cf93c7a6.chunk.css.map": "/myprofile/static/css/main.cf93c7a6.chunk.css.map",
+    "static/js/2.47e214c5.chunk.js.LICENSE.txt": "/myprofile/static/js/2.47e214c5.chunk.js.LICENSE.txt",
+    "static/media/TopContainer.css": "/myprofile/static/media/IMG_6670.72a4b16a.JPG",
+    "static/media/nubelson-fernandes-seaYsE8lL4o-unsplash.jpg": "/myprofile/static/media/nubelson-fernandes-seaYsE8lL4o-unsplash.616de171.jpg",
+    "static/media/project2.png": "/myprofile/static/media/project2.e975c626.png",
+    "static/media/skill.jpg": "/myprofile/static/media/skill.496620dd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24ab6cf5.js",
+    "static/js/2.47e214c5.chunk.js",
+    "static/css/main.cf93c7a6.chunk.css",
+    "static/js/main.59286b21.chunk.js"
+  ]
+}
