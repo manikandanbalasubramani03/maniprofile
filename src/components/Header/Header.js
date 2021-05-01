@@ -59,9 +59,7 @@ const Header = ({ selected, setSelected, setOpen }) => {
             Contact
           </h4>
         </Link>
-        <h4 className="header__right--semiactive" onClick={() => setOpen(true)}>
-          Join with Me
-        </h4>
+       
       </div>
     </div>
   );

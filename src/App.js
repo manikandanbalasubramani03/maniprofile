@@ -6,7 +6,7 @@ import TopContainer from "./components/TopContainer/TopContainer";
 import Header from "./components/Header/Header";
 import ExperienceContainer from "./components/ExperienceContainer/ExperienceContainer";
 import Contact from "./components/Contact/Contact";
-import TransitionsModal from "./components/Modal/Modal";
+
 
 function App() {
   const [selected, setSelected] = useState("about");
@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="app">
       <Header selected={selected} setSelected={setSelected} setOpen={setOpen} />
-      <TransitionsModal open={open} setOpen={setOpen} />
+    
       <TopContainer setSelected={setSelected} />
       <SkillContainer />
       <ProjectContainer />
