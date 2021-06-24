@@ -50,7 +50,7 @@ const SkillContainer = () => {
         </div>
         <div className="skillContainer__skillSet">
           <h5>Kafka</h5>
-          <div className="skillContainer__slider skillContainer__slider6">
+          <div className="skillContainer__slider skillContainer__slider7">
             <LinearProgress variant="determinate" value={65} />
           </div>
         </div>

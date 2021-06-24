@@ -73,3 +73,7 @@
 .skillContainer__slider6 > div > .MuiLinearProgress-barColorPrimary {
   background-color: rgb(255, 209, 6);
 }
+
+.skillContainer__slider7 > div > .MuiLinearProgress-barColorPrimary {
+  background-color: rgb(255, 176, 6);
+}
