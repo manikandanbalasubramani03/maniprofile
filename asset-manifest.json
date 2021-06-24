@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/maniprofile/static/css/main.b00e6e32.chunk.css",
-    "main.js": "/maniprofile/static/js/main.51c3f24b.chunk.js",
-    "main.js.map": "/maniprofile/static/js/main.51c3f24b.chunk.js.map",
-    "runtime-main.js": "/maniprofile/static/js/runtime-main.3e078bf5.js",
-    "runtime-main.js.map": "/maniprofile/static/js/runtime-main.3e078bf5.js.map",
-    "static/js/2.1a0e0212.chunk.js": "/maniprofile/static/js/2.1a0e0212.chunk.js",
-    "static/js/2.1a0e0212.chunk.js.map": "/maniprofile/static/js/2.1a0e0212.chunk.js.map",
+    "main.js": "/maniprofile/static/js/main.98ea8757.chunk.js",
+    "main.js.map": "/maniprofile/static/js/main.98ea8757.chunk.js.map",
+    "runtime-main.js": "/maniprofile/static/js/runtime-main.dcb016ef.js",
+    "runtime-main.js.map": "/maniprofile/static/js/runtime-main.dcb016ef.js.map",
+    "static/js/2.4b73d76a.chunk.js": "/maniprofile/static/js/2.4b73d76a.chunk.js",
+    "static/js/2.4b73d76a.chunk.js.map": "/maniprofile/static/js/2.4b73d76a.chunk.js.map",
     "index.html": "/maniprofile/index.html",
-    "precache-manifest.647574efd0131e38a3d533b3f3615aa0.js": "/maniprofile/precache-manifest.647574efd0131e38a3d533b3f3615aa0.js",
+    "precache-manifest.c08de8be5668d298b6e9c8321041a0cc.js": "/maniprofile/precache-manifest.c08de8be5668d298b6e9c8321041a0cc.js",
     "service-worker.js": "/maniprofile/service-worker.js",
     "static/css/main.b00e6e32.chunk.css.map": "/maniprofile/static/css/main.b00e6e32.chunk.css.map",
-    "static/js/2.1a0e0212.chunk.js.LICENSE.txt": "/maniprofile/static/js/2.1a0e0212.chunk.js.LICENSE.txt",
+    "static/js/2.4b73d76a.chunk.js.LICENSE.txt": "/maniprofile/static/js/2.4b73d76a.chunk.js.LICENSE.txt",
     "static/media/TopContainer.css": "/maniprofile/static/media/IMG_6670.72a4b16a.JPG",
     "static/media/nubelson-fernandes-seaYsE8lL4o-unsplash.jpg": "/maniprofile/static/media/nubelson-fernandes-seaYsE8lL4o-unsplash.616de171.jpg",
     "static/media/project2.png": "/maniprofile/static/media/project2.e975c626.png",
     "static/media/skill.jpg": "/maniprofile/static/media/skill.496620dd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e078bf5.js",
-    "static/js/2.1a0e0212.chunk.js",
+    "static/js/runtime-main.dcb016ef.js",
+    "static/js/2.4b73d76a.chunk.js",
     "static/css/main.b00e6e32.chunk.css",
-    "static/js/main.51c3f24b.chunk.js"
+    "static/js/main.98ea8757.chunk.js"
   ]
 }
